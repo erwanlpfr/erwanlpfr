@@ -6,9 +6,9 @@ Mobile engineer from Bretagne, France — building cross-platform apps and tinke
 
 📱 **Mobile Engineering** — My day job. I ship production apps on Android & iOS using Kotlin, Swift, and React Native.
 
-🦀 **Systems & Low-Level** — Currently diving deep into **Qt 5/6** for desktop GUI work. I also enjoy writing Rust and Go when I want speed without the headaches.
+🦀 **Systems & Low-Level** — Currently diving deep into **Qt 5/6** for desktop GUI work. I also enjoy writing Rust (still learning) and Go when I want speed without the headaches.
 
-🛠️ **Full-Stack Curious** — I'm comfortable across the stack: Node.js, Python, PostgreSQL, Docker, whatever gets the job done.
+🛠️ **Full-Stack Curious** — I'm comfortable across the stack: Bun/Node.js, Python, PostgreSQL, Docker, whatever gets the job done.
 
 ## Core Stack
 
