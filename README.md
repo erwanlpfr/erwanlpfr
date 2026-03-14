@@ -20,8 +20,8 @@ Mobile engineer from Bretagne, France — building cross-platform apps and tinke
 
 ## Sailfish OS Projects
 
-- **[harbour-gotifish](https://github.com/erwanlpfr/harbour-gotifish)** — A native Sailfish OS client for Gotify, providing real-time push notifications and message management for self-hosted Gotify servers.
-- **[harbour-aelf](https://github.com/erwanlpfr/harbour-aelf)** — A native Sailfish OS app for Catholic liturgical content from AELF.org, including daily Mass readings, the Liturgy of the Hours, and an offline Bible.
+- **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** — A native Sailfish OS client for Gotify, providing real-time push notifications and message management for self-hosted Gotify servers.
+- **[harbour-aelf](https://codeberg.org/erwanlpfr/harbour-aelf)** — A native Sailfish OS app for Catholic liturgical content from AELF.org, including daily Mass readings, the Liturgy of the Hours, and an offline Bible.
 
 ## Currently exploring
 
