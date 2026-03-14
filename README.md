@@ -28,9 +28,3 @@ Mobile engineer from Bretagne, France — building cross-platform apps and tinke
 - 📚 Building desktop applications with **Qt 5/6**
 - 🧪 Experimenting with embedded systems (Arduino, Raspberry Pi)
 - 🐧 Daily-driving Linux (Fedora / Debian)
-
-## Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=erwanlpfr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
