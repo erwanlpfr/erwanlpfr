@@ -18,6 +18,11 @@ Mobile engineer from Bretagne, France — building cross-platform apps and tinke
 **Infra & DevOps:** Docker · Proxmox VE · Firebase · Ansible · Nginx  
 **Tools:** Git · Figma · Jira · Android Studio · Xcode · VS Code · QTCreator
 
+## Sailfish OS Projects
+
+- **[harbour-gotifish](https://github.com/erwanlpfr/harbour-gotifish)** — A native Sailfish OS client for Gotify, providing real-time push notifications and message management for self-hosted Gotify servers.
+- **[harbour-aelf](https://github.com/erwanlpfr/harbour-aelf)** — A native Sailfish OS app for Catholic liturgical content from AELF.org, including daily Mass readings, the Liturgy of the Hours, and an offline Bible.
+
 ## Currently exploring
 
 - 📚 Building desktop applications with **Qt 5/6**
