@@ -1,4 +1,4 @@
-⏺ # Hey, I'm Erwan 👋
+# Hey, I'm Erwan 👋
 
 Mobile engineer based in Bretagne, France. I build cross-platform apps and work on systems programming on the side.
 
