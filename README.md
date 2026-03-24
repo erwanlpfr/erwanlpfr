@@ -1,30 +1,34 @@
-# Hey there, I'm Erwan 👋
+⏺ # Hey, I'm Erwan 👋
 
-Mobile engineer from Bretagne, France — building cross-platform apps and tinkering with systems programming on the side.
+Mobile engineer based in Bretagne, France. I build cross-platform apps and work on systems programming on the side.
 
 ## What I do
 
-📱 **Mobile Engineering** — My day job. I ship production apps on Android & iOS using Kotlin, Swift, and React Native.
+📱 **Mobile engineering**: I ship production apps on Android & iOS, mainly with Kotlin, Swift, and React Native. That's my core focus.
 
-**Systems & Low-Level** — Currently diving deep into **Qt 5/6** for desktop GUI work. I also enjoy writing Go when I want speed without the headaches.
+⚙️ **Systems & desktop**: Currently working with **Qt 5/6**, mainly to build native apps for Sailfish OS. I also use Go when performance matters.
 
-🛠️ **Full-Stack Curious** — I'm comfortable across the stack: Bun/Node.js, Python, PostgreSQL, Docker, whatever gets the job done.
+🛠️ **Full-stack capable**: Comfortable across the stack when needed: Bun/Node.js, Python, PostgreSQL, Docker.
 
-## Core Stack
+## Stack
 
-**Languages:** Kotlin · Swift · TypeScript · Go · C/C++ · Python  
-**Mobile:** Android (Jetpack) · iOS (UIKit/SwiftUI) · React Native  
+**Languages:** Kotlin · Swift · TypeScript · Go · C/C++ · Python
+**Mobile:** Android (Jetpack) · iOS (UIKit/SwiftUI) · React Native
 **Backend:** Node.js · Bun · NestJS · Express · Django · Flask  
-**Infra & DevOps:** Docker · Proxmox VE · Firebase · Ansible · Nginx  
-**Tools:** Git · Figma · Jira · Android Studio · Xcode · VS Code · QTCreator
+ **Infra:** Docker · Proxmox VE · Firebase · Ansible · Nginx
+**Tools:** Git · Figma · Jira · Android Studio · Xcode · VS Code · Qt Creator
 
-## Sailfish OS Projects
+## Sailfish OS projects
 
-- **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** — A native Sailfish OS client for Gotify, providing real-time push notifications and message management for self-hosted Gotify servers.
-- **[harbour-aelf](https://codeberg.org/erwanlpfr/harbour-aelf)** — A native Sailfish OS app for Catholic liturgical content from AELF.org, including daily Mass readings, the Liturgy of the Hours, and an offline Bible.
+I build native apps for Sailfish OS:
+
+- **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** — A Gotify client for real-time push notifications on self-hosted servers.
+- **[harbour-aelf](https://codeberg.org/erwanlpfr/harbour-aelf)** — Catholic liturgical content from AELF.org: daily readings, Liturgy of the Hours, and an offline Bible.
+- **[harbour-lerouter](https://codeberg.org/erwanlpfr/harbour-lerouter)** — A live tracker for buses and trains in France.  
+
 
 ## Currently exploring
 
-- 📚 Building desktop applications with **Qt 5/6**
-- 🧪 Experimenting with embedded systems (Arduino, Raspberry Pi)
+- 🖥️ Homelab with **Proxmox VE** and self-hosted **Nextcloud**
+- 🧪 Embedded systems (Arduino, Raspberry Pi)
 - 🐧 Daily-driving Linux (Fedora / Debian)
