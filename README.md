@@ -12,10 +12,10 @@ Mobile engineer based in Bretagne, France. I build cross-platform apps and work 
 
 ## Stack
 
-**Languages:** Kotlin · Swift · TypeScript · Go · C/C++ · Python
+**Languages:** Kotlin · Swift · TypeScript · Go · C/C++ · QT5/6 · Python
 **Mobile:** Android (Jetpack) · iOS (UIKit/SwiftUI) · React Native
-**Backend:** Node.js · Bun · NestJS · Express · Django · Flask  
- **Infra:** Docker · Proxmox VE · Firebase · Ansible · Nginx
+**Backend:** Node.js · Bun · NestJS · ElysiaJS · Express · Django · Flask  
+**Infra:** Docker · Proxmox VE · Firebase · Ansible · Puppet · Nginx
 **Tools:** Git · Figma · Jira · Android Studio · Xcode · VS Code · Qt Creator
 
 ## Sailfish OS projects
@@ -23,7 +23,7 @@ Mobile engineer based in Bretagne, France. I build cross-platform apps and work 
 I build native apps for Sailfish OS:
 
 - **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** — A Gotify client for real-time push notifications on self-hosted servers.
-- **[harbour-aelf](https://codeberg.org/erwanlpfr/harbour-aelf)** — Catholic liturgical content from AELF.org: daily readings, Liturgy of the Hours, and an offline Bible.
+- **[harbour-lectio](https://codeberg.org/erwanlpfr/harbour-lectio)** — Catholic liturgical content: daily readings, Liturgy of the Hours, and an offline Bible.
 - **[harbour-lerouter](https://codeberg.org/erwanlpfr/harbour-lerouter)** — A live tracker for buses and trains in France.  
 
 
