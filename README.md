@@ -25,7 +25,7 @@ I build native apps for Sailfish OS:
 - **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** — A Gotify client for real-time push notifications on self-hosted servers.
 - **[harbour-lectio](https://codeberg.org/erwanlpfr/harbour-lectio)** — Catholic liturgical content: daily readings, Liturgy of the Hours, and an offline Bible.
 - **[harbour-lerouter](https://codeberg.org/erwanlpfr/harbour-lerouter)** — A live tracker for buses and trains in France.
-- **[SFOS Icon Builder](https://codeberg.org/erwanlpfr/harbour-icon-builder).** — A web interface to create and export Sailfish icons.
+- **[SFOS Icon Builder](https://codeberg.org/erwanlpfr/harbour-icon-builder)** — A web interface to create and export Sailfish icons.
 
 
 ## Currently exploring
