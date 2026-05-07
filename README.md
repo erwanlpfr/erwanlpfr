@@ -12,11 +12,11 @@ Mobile engineer based in Bretagne, France. I build cross-platform apps and work 
 
 ## Stack
 
-**Languages:** Kotlin · Swift · TypeScript · Go · C/C++ · QT5/6 · Python
-**Mobile:** Android (Jetpack) · iOS (UIKit/SwiftUI) · React Native
+**Languages:** Kotlin · Swift · TypeScript · Go · C/C++ · QT5/6 · Python  
+**Mobile:** Android (Jetpack) · iOS (UIKit/SwiftUI) · React Native  
 **Backend:** Node.js · Bun · NestJS · ElysiaJS · Express · Django · Flask  
-**Infra:** Docker · Proxmox VE · Firebase · Ansible · Puppet · Nginx
-**Tools:** Git · Figma · Jira · Android Studio · Xcode · VS Code · Qt Creator
+**Infra:** Docker · Proxmox VE · Firebase · Ansible · Puppet · Nginx  
+**Tools:** Git · Figma · Jira · Android Studio · Xcode · VS Code · Qt Creator  
 
 ## Sailfish OS projects
 
