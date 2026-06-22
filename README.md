@@ -16,16 +16,20 @@ Mobile engineer based in Bretagne, France. I build cross-platform apps and work 
 **Mobile:** Android (Jetpack) · iOS (UIKit/SwiftUI) · React Native  
 **Backend:** Node.js · Bun · NestJS · ElysiaJS · Express · Django · Flask  
 **Infra:** Docker · Proxmox VE · Firebase · Ansible · Puppet · Nginx  
-**Tools:** Git · Figma · Jira · Android Studio · Xcode · VS Code · Qt Creator  
+**Tools:** Git · Figma · Linear · Jira · Android Studio · Xcode · VS Code · Qt Creator  
 
 ## Sailfish OS projects
 
 I build native apps for Sailfish OS:
 
-- **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** — A Gotify client for real-time push notifications on self-hosted servers.
-- **[harbour-lectio](https://codeberg.org/erwanlpfr/harbour-lectio)** — Catholic liturgical content: daily readings, Liturgy of the Hours, and an offline Bible.
-- **[harbour-lerouter](https://codeberg.org/erwanlpfr/harbour-lerouter)** — A live tracker for buses and trains in France.
-- **[SFOS Icon Builder](https://codeberg.org/erwanlpfr/harbour-icon-builder)** — A web interface to create and export Sailfish icons.
+- **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** - A Gotify client for real-time push notifications on self-hosted servers.
+- **[harbour-lectio](https://codeberg.org/erwanlpfr/harbour-lectio)** - Catholic liturgical content: daily readings, Liturgy of the Hours, and an offline Bible.
+- **[harbour-lerouter](https://codeberg.org/erwanlpfr/harbour-lerouter)** - A live tracker for buses and trains in France.
+- **[SFOS Icon Builder](https://codeberg.org/erwanlpfr/harbour-icon-builder)** - A web interface to create and export Sailfish icons.
+
+
+
+<img width="704" height="449" alt="sfos-projects" src="https://github.com/user-attachments/assets/1b6d8917-0f2c-41e2-a62e-d629f17e4f83" />
 
 
 ## Currently exploring
