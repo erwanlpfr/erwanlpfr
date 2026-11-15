@@ -1,39 +1,30 @@
-# Hey, I'm Erwan 👋
+# Erwan
 
-Mobile engineer based in Bretagne, France. I build cross-platform apps and work on systems programming on the side.
+Mobile dev in Brittany, France. Android and iOS at work (Kotlin, Swift, React Native), Sailfish OS apps on the side in Qt/QML and C++.
 
-## What I do
+<!-- assets/jolla-frame.png: put a 1080x2400 screenshot under it at x=54, y=69 -->
 
-📱 **Mobile engineering**: I ship production apps on Android & iOS, mainly with Kotlin, Swift, and React Native. That's my core focus.
+### <img src="assets/icons/gotifish.png" width="32" align="top"> [Gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)
 
-⚙️ **Systems & desktop**: Currently working with **Qt 5/6**, mainly to build native apps for Sailfish OS.
+Client for [Gotify](https://gotify.net). It keeps a websocket open to your server and shows messages as regular Sailfish notifications.
 
-🛠️ **Full-stack capable**: Comfortable across the stack when needed: Bun/Node.js, Python, PostgreSQL, Docker.
+<img src="assets/gotifish.webp" width="700" alt="Gotifish screenshots">
 
-## Stack
+### <img src="assets/icons/lectio.png" width="32" align="top"> [Lectio](https://codeberg.org/erwanlpfr/harbour-lectio)
 
-**Languages:** Kotlin · Swift · TypeScript · Go · C/C++ · QT5/6 · Python  
-**Mobile:** Android (Jetpack) · iOS (UIKit/SwiftUI) · React Native  
-**Backend:** Node.js · Bun · NestJS · ElysiaJS · Express · Django · Flask  
-**Infra:** Docker · Proxmox VE · Firebase · Ansible · Puppet · Nginx  
-**Tools:** Git · Figma · Linear · Jira · Android Studio · Xcode · VS Code · Qt Creator  
+Daily readings and the Liturgy of the Hours from AELF, plus a Bible that works offline. In French.
 
-## Sailfish OS projects
+<img src="assets/lectio.webp" width="700" alt="Lectio screenshots">
 
-I build native apps for Sailfish OS:
+### <img src="assets/icons/lerouter.png" width="32" align="top"> [LeRouter](https://codeberg.org/erwanlpfr/harbour-lerouter)
 
-- **[harbour-gotifish](https://codeberg.org/erwanlpfr/harbour-gotifish)** - A Gotify client for real-time push notifications on self-hosted servers.
-- **[harbour-lectio](https://codeberg.org/erwanlpfr/harbour-lectio)** - Catholic liturgical content: daily readings, Liturgy of the Hours, and an offline Bible.
-- **[harbour-lerouter](https://codeberg.org/erwanlpfr/harbour-lerouter)** - A live tracker for buses and trains in France.
-- **[SFOS Icon Builder](https://codeberg.org/erwanlpfr/harbour-icon-builder)** - A web interface to create and export Sailfish icons.
+Bus and tram times for French cities, using their open data. Live departures, a map of stops, and disruptions.
 
+<img src="assets/lerouter.webp" width="700" alt="LeRouter screenshots">
 
+### Other stuff
 
-<img width="704" height="449" alt="sfos-projects" src="https://github.com/user-attachments/assets/1b6d8917-0f2c-41e2-a62e-d629f17e4f83" />
+- [harbour-icon-builder](https://codeberg.org/erwanlpfr/harbour-icon-builder), to make Harbour icons in the browser and export every size the store wants.
+- [qtcreator-vscode-dx](https://github.com/erwanlpfr/qtcreator-vscode-dx), my Qt Creator config for the Sailfish SDK so it feels like VS Code.
 
-
-## Currently exploring
-
-- 🖥️ Homelab with **Proxmox VE** and self-hosted **Nextcloud**
-- 🧪 Embedded systems (Arduino, Raspberry Pi)
-- 🐧 Daily-driving Linux (Fedora / Debian)
+I also do some backend work, mostly Bun/Node and Postgres in Docker. Learning Rust right now.
